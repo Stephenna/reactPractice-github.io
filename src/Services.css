@@ -1,0 +1,62 @@
+/* Weldon blue #7B9A9A 
+Tea Rose
+*/
+.services {
+    background-color: #EDAF97;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    text-align: center;
+}
+
+.services h3 {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    color: #7B9A9A;
+}
+
+.services h2 {
+    font-size: 48px;
+    color: #ffff;
+    margin-bottom: 48px;
+    margin-top: 0;
+
+}
+
+.services > .row {
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.services > .row span {
+    background-color: #ffff;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border-radius: 2.25rem;
+    color: #7B9A9A;
+    font-size: 50px;
+    line-height: 120px;
+}
+
+.services > .row h4 {
+    margin-bottom: 8px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+    font-size: 24px;
+    color: #7B9A9A
+}
+
+.services > .row p {
+    font-size: 16px;
+    color:#ffff;
+}
+
+.services > .row span ion-icon {
+    contains: none;
+}
+
